@@ -54,7 +54,7 @@ $TemplateName = "main";
 			<?php include_once("$TemplateUrl/modules/grb-ranks/main.php") ?>
 			<?php include_once("$TemplateUrl/modules/boss-timers/main.php") ?>
 		
-		  <div class="fb-page" data-href="https://www.facebook.com/shaiyaelixir/" data-tabs="timeline" data-width="330" data-height="70" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/shaiyaelixir/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shaiyaelixir/">Shaiya Elixir</a></blockquote></div>
+		  <div class="fb-page" data-href="#" data-tabs="timeline" data-width="330" data-height="70" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/shaiyaelixir/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shaiyaelixir/">Shaiya Elixir</a></blockquote></div>
 		
 	
 		</aside>
